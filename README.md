@@ -2,6 +2,9 @@
 A simple cpu i made in scratch.
 
 
+https://scratch.mit.edu/projects/1241317233/
+
+
 WTR: writes to ram. example WTR 0322 0003
 
 That would write the number 322 to the 3rd in the third register in ram.
