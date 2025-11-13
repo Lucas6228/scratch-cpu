@@ -5,11 +5,11 @@ A simple cpu i made in scratch.
 https://scratch.mit.edu/projects/1241317233/
 
 
-WTR: writes to ram. example WTR 0322 0003
+(NOT IN GAME YET)WTR: writes to ram. example WTR 0322 0003
 
 That would write the number 322 to the 3rd in the third register in ram.
 
-RFR: reads a number from ram. example RFR 3 That would read the third from the third register in ram.
+(NOT IN GAME YET)RFR: reads a number from ram. example RFR 3 That would read the third from the third register in ram.
 
 JMP: jumps to a line in the instructions example JMP 8 its obvious.
 
