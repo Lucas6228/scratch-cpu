@@ -16,3 +16,5 @@ JMP: jumps to a line in the instructions example JMP 8 its obvious.
 OPT: output to output. Z for a number you read from ram. example OPT 3354 output to output list:3354
 
 CLR: clears the output list. can be used for gui i think. at this stage i havent added a input api.
+
+DLY: delays the running
