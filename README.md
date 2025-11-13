@@ -5,7 +5,7 @@ A simple cpu i made in scratch.
 https://scratch.mit.edu/projects/1241317233/
 
 
-(NOT IN GAME YET)WTR: writes to ram. example WTR 0022 0033
+WTR: writes to ram. example WTR 0022 0033
 
 That would write the number 33 to the 22nd ram thing.
 
