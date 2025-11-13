@@ -18,3 +18,5 @@ OPT: output to output. Z for a number you read from ram. example OPT 3354 output
 CLR: clears the output list. can be used for gui i think. at this stage i havent added a input api.
 
 DLY: delays the running in milliseconds
+
+ISP: if space pressed. basically just JMP but only jumps if spacebar is being pressed at runtime
