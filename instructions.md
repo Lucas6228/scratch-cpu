@@ -40,7 +40,11 @@ ISP: if space pressed. basically just JMP but only jumps if spacebar is being pr
 
 
 OPT EXTRAS
+
+
 VVVVVVVVVVVVVVVVV
+
+
 {{CURRENTSECOND}}
 
 {{CURRENTMINUTE}}
@@ -50,4 +54,6 @@ VVVVVVVVVVVVVVVVV
 {{CURRENTDAY}}
 
 {{CURRENTDAYOFWEEK}}
+
+
 ^^^^^^^^^^^^^^^^^^^^
