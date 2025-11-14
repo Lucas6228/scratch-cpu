@@ -17,7 +17,7 @@ https://scratch.mit.edu/projects/1241317233/
 DUAL CORE
 
 (
-
+Coming soon?
 )
 
 Check instructions.md for all the instructions and how to use them
