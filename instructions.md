@@ -1,13 +1,4 @@
-# scratch-cpu
-A simple cpu i made in scratch.
-
-
-USING THE TURBOWARP LINK IS RECOMMENDED
-
-https://turbowarp.org/1241317233
-
-https://scratch.mit.edu/projects/1241317233/
-
+# instructions
 
 WTR: writes to ram. example WTR 0022 0033
 
