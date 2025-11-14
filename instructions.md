@@ -1,7 +1,7 @@
 # instructions
 
 WTR: writes to ram.
-example WTR 0022 0033
+example WTR 0022 0033 
 
 That would write the number 33 to the 22nd ram thing.
 
