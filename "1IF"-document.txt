@@ -3,7 +3,10 @@ How it works
 The first number  is how long the if statement will be.
 the second number is  where it jumps to if it is true.
 
-1IF {4 digit number Length of if block} (4 digit number)
+1IF 9994 9998
 Z
 =
-1234
+1000
+
+That will jump to 8 IF the last thing that was red from ram is equal to 1000
+
