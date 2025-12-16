@@ -1,3 +1,4 @@
+# https://discord.gg/MPbAX5yUzS
 # scratch-cpu
 A simple cpu i made in scratch.
  
