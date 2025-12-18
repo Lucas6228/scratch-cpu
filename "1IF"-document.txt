@@ -8,4 +8,4 @@ Z
 =0010
 
 That will jump to 8 IF the last thing that was red from ram is equal to 0010 or 10
-
+If it isnt. the program will run as normal.
