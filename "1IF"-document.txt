@@ -2,6 +2,10 @@ This can and will be changed. This instruction 1IF/IF is work in progress.
 How it works
 The first number  is how long the if statement will be.
 the second number is  where it jumps to if it is true.
+It doesnt matter if you are doing one of these "< > =". always put the Z/X first if you are doing that.
+
+If both are Z or X it doesnt matter the order
+
 
 1IF 0003 9998
 Z
