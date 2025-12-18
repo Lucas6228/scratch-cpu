@@ -14,6 +14,13 @@ example RFR 3
 That would read the third ram thing.
 
 
+RRX: reads a number from ram.
+
+example RRX 3
+
+That would read from the third ram thing.
+
+
 JMP: jumps to a line in the instructions
 
 example JMP 8 
@@ -21,7 +28,7 @@ example JMP 8
 its obvious.
 
 
-OPT: output to output list. Z for a number you read from ram.
+OPT: output to output list. Z for a number you RFR'ed If you used RRX put a X not a Z
 
 example OPT 3354
 
