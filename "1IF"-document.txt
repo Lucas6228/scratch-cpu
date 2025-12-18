@@ -1,4 +1,5 @@
-This can and will be changed. This instruction 1IF/IF is work in progress. 
+This is quite buggy. Thats why it gets its own document. This just released to the public december 17th 2025.
+
 How it works
 The first number  is how long the if statement will be.
 the second number is  where it jumps to if it is true.
