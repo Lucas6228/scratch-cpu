@@ -3,7 +3,7 @@ How it works
 The first number  is how long the if statement will be.
 the second number is  where it jumps to if it is true.
 
-1IF 9994 9998
+1IF 0003 9998
 Z
 =0010
 
