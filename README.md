@@ -9,9 +9,9 @@ SINGLECORE
 
 (
 
-https://turbowarp.org/1241317233
+[Turbowarp](https://turbowarp.org/1241317233?fps=40&stuck)
 
-https://scratch.mit.edu/projects/1241317233/
+[Scratch](https://scratch.mit.edu/projects/1241317233/)
 
 )
 
