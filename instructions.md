@@ -34,6 +34,8 @@ example OPT 3354
 
 output to output list:3354
 
+1IF: read the document
+
 
 CLR: clears the output list. can be used for gui i think. at this stage i havent added a input api.
 
@@ -63,7 +65,7 @@ I0P: if 0 pressed. same as ISP but 0 instead of spacebar
 
 
 
-OPT EXTRAS
+OPT EXTRAS (if you are on the website you arent able to see this. sorry you have to go to github. all of the extras are just time related)
 
 
 VVVVVVVVVVVVVVVVV
