@@ -21,12 +21,28 @@
       a {
         color: blue;
       }
+      .instructions-link {
+        display: inline-block;
+        color: white;
+        background-color: black;
+        border: 2px solid white;
+        padding: 6px 12px;
+        text-decoration: none;
+        font-weight: bold;
+        border-radius: 4px;
+        transition: background-color 0.2s, color 0.2s;
+      }
+      .instructions-link:hover {
+        background-color: white;
+        color: black;
+        cursor: pointer;
+      }
     </style>
   </head>
   <body>
-    <i style="color: black; border: 2px solid white; padding: 2px;">
-      hi
-    </i>
+    <a href="https://lucas6228.github.io/scratch-cpu/instructions" class="instructions-link">
+      Instructions
+    </a>
 
     <div id="content"></div>
 
