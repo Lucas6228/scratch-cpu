@@ -4,7 +4,13 @@
     <style>
       body {
         margin: 0;
-        text-align: center; /* centers left–right */
+        text-align: center;
+        padding-top: 10px;
+        font-family: Arial, sans-serif;
+      }
+      #content {
+        margin-top: 10px;
+        white-space: pre-wrap;
       }
     </style>
   </head>
@@ -12,5 +18,16 @@
     <i style="color: black; border: 2px solid white; padding: 2px;">
       hi
     </i>
+
+    <div id="content"></div>
+
+    <script>
+      fetch("https://raw.githubusercontent.com/Lucas6228/scratch-cpu/refs/heads/main/README.md")
+        .then(response => response.ok ? response.text() : "")
+        .then(text => {
+          document.getElementById("content").textContent = text;
+        })
+        .catch(() => {});
+    </script>
   </body>
 </html>
