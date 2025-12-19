@@ -9,8 +9,17 @@
         font-family: Arial, sans-serif;
       }
       #content {
-        margin-top: 10px;
-        white-space: pre-wrap;
+        margin-top: 15px;
+        max-width: 700px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: left;
+      }
+      h1 {
+        font-size: 22px;
+      }
+      a {
+        color: blue;
       }
     </style>
   </head>
@@ -23,9 +32,15 @@
 
     <script>
       fetch("https://raw.githubusercontent.com/Lucas6228/scratch-cpu/refs/heads/main/README.md")
-        .then(response => response.ok ? response.text() : "")
-        .then(text => {
-          document.getElementById("content").textContent = text;
+        .then(r => r.ok ? r.text() : "")
+        .then(t => {
+          let html = t
+            .replace(/^# (.*)$/gm, "<h1>$1</h1>")
+            .replace(/\[(.*?)\]\((.*?)\)/g, '<a href="$2" target="_blank">$1</a>')
+            .replace(/\n\n+/g, "<br><br>")
+            .replace(/\n/g, "<br>");
+
+          document.getElementById("content").innerHTML = html;
         })
         .catch(() => {});
     </script>
