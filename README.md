@@ -5,10 +5,6 @@ A simple cpu i made in scratch.
 
 USING THE TURBOWARP LINK IS RECOMMENDED
 
-SINGLECORE
-
-(
-
 [Turbowarp](https://turbowarp.org/1241317233?fps=40&stuck)
 
 [Scratch](https://scratch.mit.edu/projects/1241317233/)
