@@ -13,12 +13,6 @@ SINGLECORE
 
 [Scratch](https://scratch.mit.edu/projects/1241317233/)
 
-)
-
-DUAL CORE
-
-(
-Coming soon?
-)
 
 Check instructions.md for all the instructions and how to use them
+Or if your on the website (thanks) click the instructions button
