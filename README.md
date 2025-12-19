@@ -15,4 +15,6 @@ Also. Please join my discord for announcements. When you apply just answer truth
 
 
 Check instructions.md for all the instructions and how to use them
-Or if your on the website (thanks) click the instructions button
+Or if your on the website (thanks) click the instructions button at the top.
+
+To go back to this page just click the back button on your device/browser
