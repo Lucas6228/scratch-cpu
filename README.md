@@ -11,7 +11,7 @@ USING THE TURBOWARP LINK IS RECOMMENDED
 
 Also. Please join my discord for announcements. When you apply just answer truthfully.
 
-[Discord link](https://discord.gg/MPbAX5yUzS)
+Discord link is down
 
 If anything bad happens to you or someone you know on discord It isnt my fault.
 
